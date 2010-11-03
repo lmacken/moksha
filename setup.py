@@ -42,6 +42,9 @@ setup(
         "Babel",
         "pyOpenSSL",
         "BeautifulSoup",
+        "tw2.core",
+        "tw2.forms",
+        "tw2.jit",
         #"repoze.squeeze", # Not hard requirements
         #"repoze.profile", # Not hard requirements
     ],
